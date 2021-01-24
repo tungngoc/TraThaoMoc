@@ -14,8 +14,8 @@ namespace TraThaoMoc.Server.Controllers
             { 
                 new Product { Id = 1, Name = "Bot Gung", Description = "San pham chong viem"},
                 new Product { Id = 1, Name = "Dau gio", Description = "Chua tinh dau bac ha"},
-                new Product { Id = 1, Name = "La xong", Description = "Khong hoa chat"}
-
+                new Product { Id = 1, Name = "La xong", Description = "Khong hoa chat"},
+                new Product { Id = 1, Name = "Gao nep", Description = "Khong hoa chat"}
             };
 
             if(!string.IsNullOrEmpty(searchBy)){
