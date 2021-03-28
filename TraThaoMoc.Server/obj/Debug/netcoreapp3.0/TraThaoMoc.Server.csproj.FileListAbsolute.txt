@@ -16,3 +16,9 @@
 /Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/obj/Debug/netcoreapp3.0/TraThaoMoc.Server.RazorTargetAssemblyInfo.cache
 /Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/obj/Debug/netcoreapp3.0/TraThaoMoc.Server.dll
 /Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/obj/Debug/netcoreapp3.0/TraThaoMoc.Server.pdb
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/obj/Debug/netcoreapp3.0/TraThaoMoc.Server.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Projects/TraThaoMoc/TraThaoMoc.Server/obj/Debug/netcoreapp3.0/TraThaoMoc.Server.csproj.CopyComplete
