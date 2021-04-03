@@ -1,7 +1,6 @@
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-
 namespace TraThaoMoc.Server.Controllers
 {
     [ApiController]
