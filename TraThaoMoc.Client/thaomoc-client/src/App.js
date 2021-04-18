@@ -5,8 +5,12 @@ class App extends Component {
     message: "",
   };
   componentDidMount() {
+    
+    axios.defaults.headers.post['Origin'] ='http://localhost:3000';
+    axios.defaults.headers.post['Access-Control-Allow-Origin'] ='*';
+    axios.defaults.headers.post['Access-Control-Allow-Methods'] ='GET,PUT,POST,DELETE,PATCH,OPTIONS'; 
     axios
-      .get("http://localhost:5001/home/ping")
+      .get("http://localhost:5000/home/ping")
       .then((reponse) => this.setState({ message: reponse.data.message }))
       .catch(error=>{console.log(error)});
   }

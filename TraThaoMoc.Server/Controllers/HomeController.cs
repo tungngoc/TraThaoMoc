@@ -1,4 +1,5 @@
 
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 namespace TraThaoMoc.Server.Controllers
@@ -13,6 +14,8 @@ namespace TraThaoMoc.Server.Controllers
         {
             _logger = logger;
         }
+
+       [EnableCors]
         [HttpGet]
         [Route("ping")]
         public string Get()
